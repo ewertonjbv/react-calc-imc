@@ -10,7 +10,7 @@ const App = () => {
 
   const [hieghtFiled, SetHieghtField] = useState<number>(0);
   const [weightFiled, SetWeightField] = useState<number>(0);
-const[toShow, setToShow] = useState<Level | null>(null);
+  const[toShow, setToShow] = useState<Level | null>(null);
 
 
 const handleCalculateButton = () => {

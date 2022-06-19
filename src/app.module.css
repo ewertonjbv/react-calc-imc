@@ -41,7 +41,7 @@
       outline: none;
 }
 .container>.leftSide>input:focus{
-      border-bottom: 2px solid #f8b305;
+      border-bottom: 2px solid #0EaD39;
 }
 .container>.leftSide>input:disabled {
       opacity: .5;
